@@ -50,7 +50,7 @@ export default function Home() {
             colour: "Jade Fog",
             storage: "8+128 GB",
             img: nord2t,
-            message:"Nord 2T 8-128 - white"
+            message:"Nord 2T 8-128 - Jade Fog"
 
         },
         {
