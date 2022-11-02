@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Detail from './Detail'
 import i12black from './i12black.jpg'
 import i12white from './i12white.jpg'
@@ -9,12 +9,33 @@ import bzBlue from './bzBlue.jpg'
 import bzRed from './bzRed.jpg'
 import nothingblack from './nothingblack.webp'
 import nothingWhite from './nothingWhite.webp'
-
+import m13black from './m13black.jpg'
 
 
 export default function Home() {
     // const [data,setData] = useState()
     const data = [
+        
+        {
+            heading: "Apple iPhone 12",
+            rate: "50,599 Rs",
+            colour: "Black",
+            storage: "128 GB",
+            img: i12black,
+            message:"Apple iPhone 12 - 128 - Black"
+
+
+        },
+        {
+            heading: "Apple iPhone 12",
+            rate: "50,599 Rs",
+            colour: "Purple",
+            storage: "128 GB",
+            img: i12purple,
+            message:"Apple iPhone 12 - 128 - Purple"
+            
+
+        },
         {
             heading: "Apple iPhone 12",
             rate: "50,750 Rs",
@@ -25,32 +46,21 @@ export default function Home() {
 
         },
         {
-            heading: "Apple iPhone 12",
-            rate: "50,750 Rs",
-            colour: "Black",
-            storage: "128 GB",
-            img: i12black,
-            message:"Apple iPhone 12 - 128 - Black"
-
-
-        },
-        {
-            heading: "Apple iPhone 12",
-            rate: "50,750 Rs",
-            colour: "Purple",
-            storage: "128 GB",
-            img: i12purple,
-            message:"Apple iPhone 12 - 128 - Purple"
-            
-
-        },
-        {
             heading: "OnePlus Nord 2T",
-            rate: "30,750 Rs",
+            rate: "30,599 Rs",
             colour: "Jade Fog",
             storage: "8+128 GB",
             img: nord2t,
-            message:"Nord 2T 8-128 - Jade Fog"
+            message:"Nord 2T 8-128 - white"
+
+        },
+        {
+            heading: "Samsung m13",
+            rate: "9599 Rs",
+            colour: "Black",
+            storage: "4+64 GB",
+            img: m13black,
+            message:"M13 Black 4+64"
 
         },
         {
@@ -64,7 +74,7 @@ export default function Home() {
         },
         {
             heading: "Nothing Phone",
-            rate: "30799 Rs",
+            rate: "30899 Rs",
             colour: "Black",
             storage: "8+256 GB",
             img: nothingblack,
