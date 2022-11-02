@@ -47,7 +47,7 @@ export default function Home() {
         },
         {
             heading: "OnePlus Nord 2T",
-            rate: "30,599 Rs",
+            rate: "30,499 Rs",
             colour: "Jade Fog",
             storage: "8+128 GB",
             img: nord2t,
@@ -56,7 +56,7 @@ export default function Home() {
         },
         {
             heading: "Samsung m13",
-            rate: "9599 Rs",
+            rate: "9499 Rs",
             colour: "Black",
             storage: "4+64 GB",
             img: m13black,
@@ -74,7 +74,7 @@ export default function Home() {
         },
         {
             heading: "Nothing Phone",
-            rate: "30899 Rs",
+            rate: "30799 Rs",
             colour: "Black",
             storage: "8+256 GB",
             img: nothingblack,
