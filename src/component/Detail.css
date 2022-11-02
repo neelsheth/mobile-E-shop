@@ -1,5 +1,6 @@
 .mainHead{
-    background-color: aqua;
+    background-color: rgb(3, 85, 85);
+    color: white;
     margin: 0px;
     padding: 5px;
     display: flex;
@@ -18,13 +19,14 @@
 
 .display{
     border-radius: 10px;
-    box-shadow: 0 3px 10px 0  rgb(6, 179, 205); 
+    box-shadow: 0 4px 15px 0  rgb(6, 178, 205); 
     padding: 15px;
     font-size: 20px;
     height: 350px;
     width: 210px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     margin-right: 30px;
+    background-color: white;
 }
 
 .text{
@@ -32,7 +34,7 @@
     text-overflow: ellipsis;
     overflow: hidden;
     margin-bottom: 0px;
-    color: aqua;
+    /* color: aqua; */
     font-weight: lighter;
     margin-left: 5px;
 }
@@ -46,13 +48,14 @@
 
 button{
     background-color: rgb(114, 255, 255);
-    border: 1px solid rgb(40, 5, 136);
+    border: 1px solid rgb(2, 67, 52);
     border-radius: 10px;
     padding: 5px;
     cursor: pointer;
 }
 img{
     margin: 3px;
+    margin-left: 10px;
 }
 
 .center{
