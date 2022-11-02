@@ -16,7 +16,7 @@ export default function Detail(props) {
                     <div className='center'>
 
                     <a href= {`https://wa.me/7802014355/?text=${props.data.message}`}  target="_blank">
-                    <button>Buy Now</button>
+                    <button>Buy on whatsapp</button>
                     </a>
                     </div>
                 </div>
