@@ -65,7 +65,7 @@ export default function Home() {
         },
         {
             heading: "Nothing Phone",
-            rate: "30799 Rs",
+            rate: "30899 Rs",
             colour: "White",
             storage: "8+256 GB",
             img: nothingWhite,
