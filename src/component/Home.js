@@ -10,7 +10,7 @@ import bzRed from './bzRed.jpg'
 import nothingblack from './nothingblack.webp'
 import nothingWhite from './nothingWhite.webp'
 import m13black from './m13black.jpg'
-import redmi9act from './redmi9act.webp'
+import redmi9act from './redmi9act.jpg'
 import k10 from './k10.webp'
 
 
