@@ -103,7 +103,7 @@ export default function Home() {
         },
         {
             heading: "Oneplus Bullets Z2 Earphones",
-            rate: "1599 Rs",
+            rate: "1649 Rs",
             colour: "Black",
             storage: null,
             img: bzBlack,
@@ -112,7 +112,7 @@ export default function Home() {
         },
         {
             heading: "Oneplus Bullets Z2 Earphones",
-            rate: "1599 Rs",
+            rate: "1649 Rs",
             colour: "Red",
             storage: null,
             img: bzRed,
@@ -121,7 +121,7 @@ export default function Home() {
         },
         {
             heading: "Oneplus Bullets Z2 Earphones",
-            rate: "1599 Rs",
+            rate: "1649 Rs",
             colour: "Blue",
             storage: null,
             img: bzBlue,
