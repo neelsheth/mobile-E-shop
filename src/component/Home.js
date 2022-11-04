@@ -10,6 +10,8 @@ import bzRed from './bzRed.jpg'
 import nothingblack from './nothingblack.webp'
 import nothingWhite from './nothingWhite.webp'
 import m13black from './m13black.jpg'
+import redmi9act from './redmi9act.webp'
+import k10 from './k10.webp'
 
 
 export default function Home() {
@@ -52,6 +54,24 @@ export default function Home() {
             storage: "8+128 GB",
             img: nord2t,
             message:"Nord 2T 8-128 - white"
+
+        },
+        {
+            heading: "Oppo k10 5G",
+            rate: "15,999 Rs",
+            colour: "Blue",
+            storage: "6+128 GB",
+            img: k10,
+            message:"oppo k10 5g"
+
+        },
+        {
+            heading: "redmi 9 active",
+            rate: "7899 Rs",
+            colour: "Black",
+            storage: "4+64 GB",
+            img: redmi9act,
+            message:"redmi 9 active"
 
         },
         {
