@@ -20,7 +20,7 @@ export default function Home() {
         
         {
             heading: "Apple iPhone 12",
-            rate: "50,699 Rs",
+            rate: "Sold Out",
             colour: "Black",
             storage: "128 GB",
             img: i12black,
@@ -30,7 +30,7 @@ export default function Home() {
         },
         {
             heading: "Apple iPhone 12",
-            rate: "50,699 Rs",
+            rate: "Sold Out",
             colour: "Purple",
             storage: "128 GB",
             img: i12purple,
