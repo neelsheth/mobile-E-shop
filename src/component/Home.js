@@ -58,7 +58,7 @@ export default function Home() {
         },
         {
             heading: "Oppo k10 5G",
-            rate: "15,999 Rs",
+            rate: "16,299 Rs",
             colour: "Blue",
             storage: "6+128 GB",
             img: k10,
@@ -76,7 +76,7 @@ export default function Home() {
         },
         {
             heading: "Samsung m13",
-            rate: "9499 Rs",
+            rate: "9599 Rs",
             colour: "Black",
             storage: "4+64 GB",
             img: m13black,
