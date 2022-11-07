@@ -51,9 +51,9 @@ export default function Home() {
             heading: "OnePlus Nord 2T",
             rate: "30,499 Rs",
             colour: "Jade Fog",
-            storage: "8+128 GB",
+            storage: "12+256 GB",
             img: nord2t,
-            message:"Nord 2T 8-128 - white"
+            message:"Nord 2T 12+256- Jade Fog"
 
         },
         {
