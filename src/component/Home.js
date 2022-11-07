@@ -121,7 +121,7 @@ export default function Home() {
         },
         {
             heading: "Oneplus Bullets Z2 Earphones",
-            rate: "1649 Rs",
+            rate: "sold out",
             colour: "Blue",
             storage: null,
             img: bzBlue,
