@@ -20,8 +20,8 @@ export default function Home() {
         
         {
             heading: "Apple iPhone 12",
-            rate: "Sold Out",
-            colour: "51,799",
+            rate: "51,499",
+            colour: "Black",
             storage: "128 GB",
             img: i12black,
             message:"Apple iPhone 12 - 128 - Black"
