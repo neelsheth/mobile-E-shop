@@ -21,7 +21,7 @@ export default function Home() {
         {
             heading: "Apple iPhone 12",
             rate: "Sold Out",
-            colour: "Black",
+            colour: "51,799",
             storage: "128 GB",
             img: i12black,
             message:"Apple iPhone 12 - 128 - Black"
@@ -40,7 +40,7 @@ export default function Home() {
         },
         {
             heading: "Apple iPhone 12",
-            rate: "51,499",
+            rate: "51,999",
             colour: "White",
             storage: "128 GB",
             img: i12white,
