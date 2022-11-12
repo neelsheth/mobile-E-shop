@@ -20,7 +20,7 @@ export default function Home() {
         
         {
             heading: "Apple iPhone 12",
-            rate: "51,499",
+            rate: "51,899",
             colour: "Black",
             storage: "128 GB",
             img: i12black,
@@ -85,7 +85,7 @@ export default function Home() {
         },
         {
             heading: "Nothing Phone",
-            rate: "30999 Rs",
+            rate: "31499 Rs",
             colour: "White",
             storage: "8+256 GB",
             img: nothingWhite,
@@ -94,7 +94,7 @@ export default function Home() {
         },
         {
             heading: "Nothing Phone",
-            rate: "30999 Rs",
+            rate: "31499 Rs",
             colour: "Black",
             storage: "8+256 GB",
             img: nothingblack,
@@ -103,7 +103,7 @@ export default function Home() {
         },
         {
             heading: "Oneplus Bullets Z2 Earphones",
-            rate: "1649 Rs",
+            rate: "1699 Rs",
             colour: "Black",
             storage: null,
             img: bzBlack,
@@ -112,7 +112,7 @@ export default function Home() {
         },
         {
             heading: "Oneplus Bullets Z2 Earphones",
-            rate: "1649 Rs",
+            rate: "1699 Rs",
             colour: "Red",
             storage: null,
             img: bzRed,
