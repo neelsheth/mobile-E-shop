@@ -1,3 +1,27 @@
+body{
+    text-transform: capitalize;
+    height: 100%;
+}
+
+.serch{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(1, 73, 73);  
+}
+
+.serchbtn{
+    padding: 5px;
+    margin: 5px;
+}
+
+input{
+    background-color: aqua;
+    font-weight: bold;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
 .mainHead{
     background-color: rgb(3, 85, 85);
     color: white;
@@ -13,7 +37,7 @@
     flex-wrap: wrap;
     padding: 30px;
     justify-content: space-evenly;
-    /* width: 300px; */
+    min-height: 79.6vh;
     background-color: black;
 }
 
