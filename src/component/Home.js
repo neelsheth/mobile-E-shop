@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react'
 import Detail from './Detail'
+import logo from './searchlogo.jpg'
 
 
 export default function Home() {
@@ -22,7 +23,7 @@ export default function Home() {
         <>
             <div className='serch'>
                 <input ref={serchRef}></input>
-                <button className='serchbtn' onClick={serchItm}>Serch</button>
+                <button className='serchbtn logo' onClick={serchItm}> <img src={logo} width={'20px'}></img>Search</button>
                 <button className='serchbtn' onClick={() => setSerch("")}>Show all</button>
 
             </div>
