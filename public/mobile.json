@@ -1,30 +1,6 @@
 [
     {
         "heading": "apple iphone 12",
-        "rate": "sold out",
-        "colour": "Green",
-        "storage": "128 GB",
-        "img": "https://m.media-amazon.com/images/I/71cQWYVtcBL._SL1500_.jpg",
-        "message": "Apple iPhone 12 - 128 - Green"
-    },
-    {
-        "heading": "apple iphone 12",
-        "rate": "Sold out",
-        "colour": "Black",
-        "storage": "128 GB",
-        "img": "/image/i12black.jpg",
-        "message": "Apple iPhone 12 - 128 - Black"
-    },
-    {
-        "heading": "apple iphone 12",
-        "rate": "Sold Out",
-        "colour": "Purple",
-        "storage": "128 GB",
-        "img": "/image/i12purple.jpg",
-        "message": "Apple iPhone 12 - 128 - Purple"
-    },
-    {
-        "heading": "apple iphone 12",
         "rate": "52,499",
         "colour": "White",
         "storage": "128 GB",
@@ -102,5 +78,29 @@
         "storage": null,
         "img": "/image/bzBlue.jpg",
         "message": "Bullets Z2 Blue"
+    },
+    {
+        "heading": "apple iphone 12",
+        "rate": "sold out",
+        "colour": "Green",
+        "storage": "128 GB",
+        "img": "https://m.media-amazon.com/images/I/71cQWYVtcBL._SL1500_.jpg",
+        "message": "Apple iPhone 12 - 128 - Green"
+    },
+    {
+        "heading": "apple iphone 12",
+        "rate": "Sold out",
+        "colour": "Black",
+        "storage": "128 GB",
+        "img": "/image/i12black.jpg",
+        "message": "Apple iPhone 12 - 128 - Black"
+    },
+    {
+        "heading": "apple iphone 12",
+        "rate": "Sold Out",
+        "colour": "Purple",
+        "storage": "128 GB",
+        "img": "/image/i12purple.jpg",
+        "message": "Apple iPhone 12 - 128 - Purple"
     }
 ]
