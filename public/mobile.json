@@ -8,14 +8,6 @@
         "message": "Apple iPhone 12 - 128 - White"
     },
     {
-        "heading": "oneplus nord 2T",
-        "rate": "Sold Out",
-        "colour": "Jade Fog",
-        "storage": "12+256 GB",
-        "img": "/image/nord2t.jpg",
-        "message": "Nord 2T 12+256- Jade Fog"
-    },
-    {
         "heading": "oppo k10 5G",
         "rate": "16,299 Rs",
         "colour": "Blue",
@@ -78,6 +70,14 @@
         "storage": null,
         "img": "/image/bzBlue.jpg",
         "message": "Bullets Z2 Blue"
+    },
+    {
+        "heading": "oneplus nord 2T",
+        "rate": "Sold Out",
+        "colour": "Jade Fog",
+        "storage": "12+256 GB",
+        "img": "/image/nord2t.jpg",
+        "message": "Nord 2T 12+256- Jade Fog"
     },
     {
         "heading": "apple iphone 12",
