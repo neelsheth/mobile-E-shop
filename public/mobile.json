@@ -1,5 +1,21 @@
 [
     {
+        "heading": "oneplus 10r 5g",
+        "rate": "31,499",
+        "colour": "Green",
+        "storage": "128 GB",
+        "img": "https://m.media-amazon.com/images/I/716uVx3Wr5L._SL1500_.jpg",
+        "message": "Oneplus 10R 5G"
+    },
+    {
+        "heading": "apple iphone 13",
+        "rate": "61,999",
+        "colour": "blue",
+        "storage": "128 GB",
+        "img": "https://rukminim1.flixcart.com/image/416/416/ktketu80/mobile/2/y/o/iphone-13-mlpk3hn-a-apple-original-imag6vpyur6hjngg.jpeg?q=70",
+        "message": "Apple iPhone 13 - 128 - Blue"
+    },
+    {
         "heading": "apple iphone 12",
         "rate": "52,499",
         "colour": "White",
