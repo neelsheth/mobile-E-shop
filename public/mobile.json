@@ -1,12 +1,20 @@
-[
-    {
-        "heading": "apple iphone 12",
-        "rate": "Sold Out",
-        "colour": "White",
-        "storage": "128 GB",
-        "img": "/image/i12white.jpg",
-        "message": "Apple iPhone 12 - 128 - White"
+[{
+        "heading": "oneplus nord 2t",
+        "rate": "27499",
+        "colour": "Jade Fog",
+        "storage": "8+128 GB",
+        "img": "https://m.media-amazon.com/images/I/41iEc0hf6TL._SX300_SY300_QL70_FMwebp_.jpg",
+        "message": "oneplus nord 2t- Jade Fog"
     },
+    {
+        "heading": "oneplus nord 2t",
+        "rate": "27499",
+        "colour": "Gray Shadow",
+        "storage": "8+128 GB",
+        "img": "https://m.media-amazon.com/images/I/617MPEZB5mL._SX679_.jpg",
+        "message": "oneplus nord 2t- Gray Shadow"
+    },
+    
     {
         "heading": "oppo k10 5G",
         "rate": "16,299 Rs",
@@ -62,6 +70,14 @@
         "storage": null,
         "img":"/image/bzred.jpg",
         "message": "Bullets Z2 Red"
+    },
+    {
+        "heading": "apple iphone 12",
+        "rate": "Sold Out",
+        "colour": "White",
+        "storage": "128 GB",
+        "img": "/image/i12white.jpg",
+        "message": "Apple iPhone 12 - 128 - White"
     },
     {
         "heading": "oneplus bullets z2 earphones",
