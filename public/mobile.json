@@ -1,6 +1,15 @@
+
 [{
+        "heading": "apple iphone 11",
+        "rate": "38999",
+        "colour": "White",
+        "storage": "64 GB",
+        "img": "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70",
+        "message": "Apple iPhone 11 - 64 - White"
+    },
+    {
         "heading": "oneplus nord 2t",
-        "rate": "27499",
+        "rate": "Sold out",
         "colour": "Jade Fog",
         "storage": "8+128 GB",
         "img": "https://m.media-amazon.com/images/I/41iEc0hf6TL._SX300_SY300_QL70_FMwebp_.jpg",
@@ -8,7 +17,7 @@
     },
     {
         "heading": "oneplus nord 2t",
-        "rate": "27499",
+        "rate": "Sold out",
         "colour": "Gray Shadow",
         "storage": "8+128 GB",
         "img": "https://m.media-amazon.com/images/I/617MPEZB5mL._SX679_.jpg",
@@ -17,7 +26,7 @@
     
     {
         "heading": "oppo k10 5G",
-        "rate": "16,299 Rs",
+        "rate": "15,999 Rs",
         "colour": "Blue",
         "storage": "6+128 GB",
         "img": "/image/k10.webp",
@@ -25,7 +34,7 @@
     },
     {
         "heading": "redmi 9 active",
-        "rate": "7899 Rs",
+        "rate": "7799 Rs",
         "colour": "Black",
         "storage": "4+64 GB",
         "img": "/image/redmi9act.jpg",
