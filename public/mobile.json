@@ -7,14 +7,6 @@
         "img": "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70",
         "message": "Apple iPhone 11 - 64 - White"
     },
-    {
-        "heading": "oneplus 10r 5g",
-        "rate": "Sold Out",
-        "storage": "8 + 128 GB",
-        "colour": "Black",
-        "img": "https://m.media-amazon.com/images/I/710ldHgfKLL._SX679_.jpg",
-        "message": "Oneplus 10R 5G 8+128"
-    },
      {
         "heading": "oneplus 10r 5g",
         "rate": "34,999",
@@ -23,23 +15,6 @@
         "img": "https://m.media-amazon.com/images/I/710ldHgfKLL._SX679_.jpg",
         "message": "Oneplus 10R 5G 12+256"
     },
-    {
-        "heading": "oneplus nord 2t",
-        "rate": "Sold out",
-        "colour": "Jade Fog",
-        "storage": "8+128 GB",
-        "img": "https://m.media-amazon.com/images/I/41iEc0hf6TL._SX300_SY300_QL70_FMwebp_.jpg",
-        "message": "oneplus nord 2t- Jade Fog"
-    },
-    {
-        "heading": "oneplus nord 2t",
-        "rate": "Sold out",
-        "colour": "Gray Shadow",
-        "storage": "8+128 GB",
-        "img": "https://m.media-amazon.com/images/I/617MPEZB5mL._SX679_.jpg",
-        "message": "oneplus nord 2t- Gray Shadow"
-    },
-    
     {
         "heading": "oppo k10 5G",
         "rate": "15,999 Rs",
@@ -56,14 +31,7 @@
         "img": "/image/redmi9act.jpg",
         "message": "redmi 9 active"
     },
-    {
-        "heading": "samsung m13",
-        "rate": "9499 Rs",
-        "colour": "Black",
-        "storage": "4+64 GB",
-        "img":  "/image/m13black.jpg",
-        "message": "M13 Black 4+64"
-    },
+   
     {
         "heading": "nothing phone",
         "rate": "31499 Rs",
@@ -104,6 +72,14 @@
         "img": "/image/i12white.jpg",
         "message": "Apple iPhone 12 - 128 - White"
     },
+  {
+        "heading": "samsung m13",
+        "rate": "Sold Out",
+        "colour": "Black",
+        "storage": "4+64 GB",
+        "img":  "/image/m13black.jpg",
+        "message": "M13 Black 4+64"
+    },
     {
         "heading": "oneplus bullets z2 earphones",
         "rate": "sold out",
@@ -111,6 +87,30 @@
         "storage": null,
         "img": "/image/bzBlue.jpg",
         "message": "Bullets Z2 Blue"
+    },
+     {
+        "heading": "oneplus nord 2t",
+        "rate": "Sold out",
+        "colour": "Jade Fog",
+        "storage": "8+128 GB",
+        "img": "https://m.media-amazon.com/images/I/41iEc0hf6TL._SX300_SY300_QL70_FMwebp_.jpg",
+        "message": "oneplus nord 2t- Jade Fog"
+    },
+    {
+        "heading": "oneplus nord 2t",
+        "rate": "Sold out",
+        "colour": "Gray Shadow",
+        "storage": "8+128 GB",
+        "img": "https://m.media-amazon.com/images/I/617MPEZB5mL._SX679_.jpg",
+        "message": "oneplus nord 2t- Gray Shadow"
+    },
+    {
+        "heading": "oneplus 10r 5g",
+        "rate": "Sold Out",
+        "storage": "8 + 128 GB",
+        "colour": "Black",
+        "img": "https://m.media-amazon.com/images/I/710ldHgfKLL._SX679_.jpg",
+        "message": "Oneplus 10R 5G 8+128"
     },
     {
         "heading": "apple iphone 13",
