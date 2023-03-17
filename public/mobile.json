@@ -1,7 +1,7 @@
 
 [{
         "heading": "apple iphone 11",
-        "rate": "38999",
+        "rate": "sold out",
         "colour": "White",
         "storage": "64 GB",
         "img": "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70",
@@ -9,7 +9,7 @@
     },
      {
         "heading": "oneplus 10r 5g",
-        "rate": "34,999",
+        "rate": "sold out
         "storage": "12 + 256 GB",
         "colour": "Black",
         "img": "https://m.media-amazon.com/images/I/710ldHgfKLL._SX679_.jpg",
@@ -17,7 +17,7 @@
     },
     {
         "heading": "oppo k10 5G",
-        "rate": "15,999 Rs",
+        "rate": "sold out",
         "colour": "Blue",
         "storage": "6+128 GB",
         "img": "/image/k10.webp",
@@ -25,7 +25,7 @@
     },
     {
         "heading": "redmi 9 active",
-        "rate": "7799 Rs",
+        "rate": "sold out",
         "colour": "Black",
         "storage": "4+64 GB",
         "img": "/image/redmi9act.jpg",
@@ -34,7 +34,7 @@
    
     {
         "heading": "nothing phone",
-        "rate": "31499 Rs",
+        "rate": "sold out",
         "colour": "White",
         "storage": "8+256 GB",
         "img":  "/image/nothingWhite.webp",
@@ -42,7 +42,7 @@
     },
     {
         "heading": "nothing phone",
-        "rate": "30999 Rs",
+        "rate": "sold out",
         "colour": "Black",
         "storage": "8+256 GB",
         "img": "/image/nothingblack.webp",
@@ -58,7 +58,7 @@
     },
     {
         "heading": "oneplus bullets z2 earphones",
-        "rate": "1749 rs",
+        "rate": "sold out",
         "colour": "Red",
         "storage": null,
         "img":"/image/bzred.jpg",
